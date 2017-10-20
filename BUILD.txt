@@ -1,0 +1,8 @@
+# README.txt, Compile Notes...
+
+#> cd argsv-CPython
+#> make && make install 
+#> cd ..
+
+
+
