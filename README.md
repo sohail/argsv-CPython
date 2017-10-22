@@ -1,10 +1,10 @@
-argsv-CPython
-=============
-# README, last updated on :- 20th of October, 2017
+*argsv-cpython*
 
-argsv for CPython(a CPython module).
-====================================
-An effort to process the command line arguments with ease and style
+__README, last updated on :- 22nd of October, 2017__
+
+argsv for CPython(a CPython module).  
+An effort to process the command line arguments with ease and style.  
+---
 
 "Command-line options represent the \"face\" of the program, and tools for options parsing should be convenient and easy to use.". C/C++ Users Journal November, 2004.
 
