@@ -1,6 +1,6 @@
-# README.txt, Compile Notes...
+# BUILD.txt, Compile Notes...
 
-#> cd argsv-CPython
+#> cd argsv-cpython
 #> make && make install 
 #> cd ..
 
