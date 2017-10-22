@@ -1,6 +1,5 @@
 *argsv-cpython*
-
-__README, last updated on :- 22nd of October, 2017__
+_README, last updated on :- 22nd of October, 2017_
 
 argsv for CPython(a CPython module).  
 An effort to process the command line arguments with ease and style.  
