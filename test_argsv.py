@@ -1,7 +1,7 @@
 #!/usr/bin/python -O
 
 # test_argsv.py 
-# Written by, Sohail Qayum Malik<sqm@hackers.pk>
+# Written by, Sohail Qayum Malik
 
 """
    This script stress tests and demonstrates smarts(given if there are any) 

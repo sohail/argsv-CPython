@@ -1,5 +1,4 @@
 # Makefile
-# sqm@hackers.pk
 
 all		: argsv.c argsv.h argsv.py		
 		python argsv.py build

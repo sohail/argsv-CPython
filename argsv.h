@@ -2,7 +2,7 @@
  * Allah, The ONE and the ONLY ONE and ALL MIGHTY. 
  * *******************************************************************
  * argsv.h
- * Written by, Sohail Qayum Malik<sqm@hackers.pk>
+ * Written by, Sohail Qayum Malik
  * ********/
 
 #include <Python.h>
