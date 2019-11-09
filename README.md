@@ -1,5 +1,5 @@
 **argsv-cpython**    
-_README, last updated on :- 22nd of October, 2017_
+_README, last updated on :- 9th of November, 2019_
 
 argsv for CPython(a CPython module). An effort to process the command line arguments with ease and style.  
 ---
@@ -12,6 +12,6 @@ Please Note:- Use this module with the versions of Python earlier than 3.0
 
 Example Application.
 -----------------------
-An \"example application\"(**test_argsv.py**) is part of the committed source code, use it as a usage guide and to test the smarts of argsv-cpython module.
+Few \"example applications\"(**test_argsv.py**, **regedit.py**) are part of the committed source code, use it as a usage guide and to test the smarts of argsv-cpython module.
 
 
