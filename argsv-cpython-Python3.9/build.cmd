@@ -1,1 +1,1 @@
-msbuild D:\regexpr-python\argsv.xml /p:PySourcePath=D:\regexpr-python\CPython\
+msbuild argsv.xml /p:PySourcePath=D:\regexpr-python\CPython\

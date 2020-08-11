@@ -92,6 +92,8 @@ static PyObject *argsv_PyTypeObject_ternaryfunc(argsv_object *self, \
    int idx = 0, i = 0, j;	
    PyObject *ptr = NULL;
 
+   //printf("HELLO WORLD\n");
+
    struct map *mlnk = NULL;
    struct commands_list *clnk = NULL;
 
@@ -330,9 +332,13 @@ static PyObject *argsv_PyMappingMethods_binaryfunc(argsv_object *self, \
    struct commands_list *clnk;
    struct map *outer_mlnk = NULL, *inner_mlnk;
 
-   /*char *command = PyString_AsString(item);*/
-   char *command = PyBytes_AS_STRING(item);
+   //char *command = PyString_AsString(item);
+   //char *command = PyBytes_AS_STRING(item);
+
+   char *command = PyBytes_AsString(item);
    
+   //printf("--> %s", command);
+
    char *str_outer = command, *str_inner = NULL;
 
    size_t str_outer_size = 0, str_inner_size = 0;
