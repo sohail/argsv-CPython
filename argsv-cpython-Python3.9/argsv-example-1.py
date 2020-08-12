@@ -1,5 +1,22 @@
 # May Allah help us all.
 
+"""
+   args-example-1.py
+
+   This script stress tests and demonstrates smarts(given if there are any) 
+   of argsv module. argsv module is capable of handling short and long 
+   commands. argsv module is capable of handling multiple instances of same
+   short or long command. argsv module allows many command names for the
+   same command e.g "?,/?,h,-h,help,--help"(this comma delimited list 
+   represents few names of the one single command). argsv module allows
+   the use of functions print, str and len on its type instances. 
+  ---------------------------------------------------------------------------
+
+  [Super glue]
+  For me the Python programming language is a glue language. I divide the problem at hand in modules, then write each module in CPython and use the script written in Python to bind or glue the CPython modules together. This way I've the best of both worlds. The ease of using the C language, with the facilities which the C++ provides(The CPython's per object data and per object type), then the benefits of using the non statically type language.
+
+"""
+
 import sys
 
 try:
